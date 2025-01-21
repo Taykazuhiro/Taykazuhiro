@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Taykazuhiro
+- 👋 Hi, I’m @Taykazuhiro! You can call me Tay 
 - 👀 I’m interested in Technology for Accessibility.
 - 🌱 I’m currently learning UX Design & Front-End
 - 💞️ I’m looking to collaborate on study groups and projects
