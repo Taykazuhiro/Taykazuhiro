@@ -13,7 +13,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/ alt = "icone azul em formato do número 3 e a palavra CSS em preto acima do ícone" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/ alt = "icone quadrado amarelo com as letras JS em preto no canto inferior direito" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/ alt = "fundo redondo preto com o contorno do corpo de um gatinho vazando o circulo" width="40" height="40" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"/ alt = "losango laranja com o formato de uma arvore dentro do losango vazando com a palavra git ao lado" width="40" height="40">                                           
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"/ alt = "losango laranja com o formato de uma arvore dentro do losango vazando com a palavra git ao lado" width="40" height="40">    
+<img src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png" / alt = "xicara de café fumegante com a palavra java em abaixo" width="40" height="40">  
 </div>
 
 <div>
