@@ -9,13 +9,17 @@
 </div>
 <div>
 <h2>⚙️ Languages & Tools </h2>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/ alt = "icone laranja em formato do número 5 e a palavra HTML em preto acima do ícone" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/ alt = "icone azul em formato do número 3 e a palavra CSS em preto acima do ícone" width="40" height="40">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s"/ alt = "icone laranja em formato do número 5 e a palavra HTML em preto acima do ícone" width="40" height="40">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlgFMQA2Kz1e-vSsDSSPH7lHd8_r2dJuAEfA&s](https://i.pinimg.com/736x/a9/dc/c7/a9dcc740cad3149598307b5de8bc10c3.jpg"/ alt = "icone azul em formato do número 3 e a palavra CSS em preto acima do ícone" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/ alt = "icone quadrado amarelo com as letras JS em preto no canto inferior direito" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"/ alt = "losango laranja com o formato de uma arvore dentro do losango vazando com a palavra git ao lado" width="40" height="40">    
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" / alt="letras TS brancas sobre fundo azul" width="40" height="40">
+<img src="https://git-scm.com/images/logos/logomark-orange@2x.png"/ alt = "losango laranja com o formato de uma arvore dentro do losango vazando com a palavra git ao lado" width="40" height="40">    
 <img src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png" / alt = "xicara de café fumegante com a palavra java em abaixo" width="40" height="40">  
-</div>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8i4zPog-0j0JR_yZglxPhTPZXxN2iMTQ3Dw&s" / alt = "folha de arvore branca em cima de um circulo verde" width="40" height="40">  
+<img src="https://cdn.sanity.io/images/599r6htc/regionalized/5094051dac77593d0f0978bdcbabaf79e5bb855c-1080x1080.png?w=540&h=540&q=75&fit=max&auto=format" / alt = "letra F formada por 5 circulos coloridos" width="40" height="40">  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThr7qrIazsvZwJuw-uZCtLzIjaAyVW_ZrlEQ&s" / alt = "estrela de 4 pontas com degradê em roxo e azul" width="40" height="40">
 
+</div>
 <div>
   <h2> ✅ GitHub Stats</h2>
 <a href="https://github.com/Taykazuhiro">
